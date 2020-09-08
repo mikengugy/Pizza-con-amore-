@@ -15,7 +15,7 @@ Make appropriate changes to the file
 git commit -am and make a comment,so as to add and commit the changes made.
 Push the changes and create a pull request
 
-## Live Link:
+## Live Link: https://mikengugy.github.io/Pizza-con-amore-/
 
 
 
