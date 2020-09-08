@@ -20,3 +20,26 @@ h1{
     padding-bottom: 15%;
     color: black;
 }
+.brand h3{
+    font-family: 'Italianno', cursive;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+#about{
+    font-size: 20px;
+    text-align: center;
+}
+#about li{
+    list-style-type: none;
+}
+#about h3, #menu h3{
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+#menu img {
+    height: 200px;
+}
+
