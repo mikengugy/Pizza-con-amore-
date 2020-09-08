@@ -1,0 +1,22 @@
+
+
+#home{
+    background-image: url(https://bit.ly/2tgdS1x);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 350px;
+    text-align: center;
+    
+    
+}
+h1{
+    font-family: 'Carter One', cursive;
+    font-size: 90px;
+    padding-bottom: 15%;
+}
+.home-page p{
+    font-family: monospace;
+    font-size: 30px;
+    padding-bottom: 15%;
+    color: black;
+}
